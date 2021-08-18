@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Jack Cwynar, a Computer Science major at Auburn University, with a minor in Business.
