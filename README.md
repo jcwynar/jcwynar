@@ -3,3 +3,4 @@
 - Through classes at Auburn, I have experience with Java, Ruby, C++, C, and Assembly Language (ASM).
 - My part time job with the IIT department at Auburn's veterinary school has given valuable experience in basic and intermediate trouble shooting of laptops, desktops, printers, monitors, and zero clients, imaging computers, and basic and intermediate hardware maintenance.
 - My goals include learning Swift so I can work on iPhone/iPad/Mac apps, learning more languages (both spoken and programmed!), and eventually becoming a senior developer at a great company!
+- I enjoy scuba diving, playing video games, reading, and dissecting old and new technology!
