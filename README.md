@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jack Cwynar
-- I graduated from Auburn Univeristy in 2022 with a Bachlor's of Science in Computer Science.
+- I graduated from Auburn Univeristy in 2022 with a Bachelor's of Science in Computer Science.
 - I currently work at PRADCO Outdoor Brands as a C#/.NET developer.
